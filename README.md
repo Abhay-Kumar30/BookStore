@@ -4,7 +4,7 @@ BookStore website fully responsive and userfriendly based on **MERN Stack**.
 
 **Tech-Used:-** React, MongoDB, Node.js, Express.js, Javascript, Tailwind CSS, Postman, Git-Github
 
-## Features:-
+## Features:
 1) Built a full CRUD system to create, read, update, and delete books.
 2) Added popup alerts for every operation (add, edit, delete). 
 3) Developed a RESTful API using Node.js, Express, and MongoDB.
